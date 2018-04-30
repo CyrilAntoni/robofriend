@@ -5,7 +5,12 @@ font-weight: normal;
 src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
 }
 
+body {
+  background: linear-gradient(to right, rgb(47, 67, 208), rgb(34, 104, 221));
+}
+
 h1 {
   font-family: 'SEGA LOGO FONT';
   font-weight: 200;
+  color: #d2b0d8;
 }
